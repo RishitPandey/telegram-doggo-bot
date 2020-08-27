@@ -11,6 +11,7 @@
 ### Bot Commands
     
 For now there is only one command which is bop and you can use this command to get pictures of dogs just by sending `/bop` to the bot
+Check it out!: http://t.me/ydoonbot
     
 ### Screenshot
 <p align="center">
