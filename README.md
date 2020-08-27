@@ -5,7 +5,7 @@
   If you want to use this file for further development, first install the telegram-bot module using pip,
   
 ```bash
-        pip3 install python-telegram-bot
+  pip3 install python-telegram-bot
 ```
     
 ### Bot Commands
