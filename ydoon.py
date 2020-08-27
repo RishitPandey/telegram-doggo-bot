@@ -17,7 +17,7 @@ def bop(bot, update):
     bot.send_photo(chat_id=chat_id, photo=url)
 
 def main():
-    updater = Updater('1110418301:AAEy76PA31Go_IapaTyXRAILo-1yyA301Mw')
+    updater = Updater('Your secret token')
     dp = updater.dispatcher
     dp.add_handler(CommandHandler('bop',bop))
     updater.start_polling()
